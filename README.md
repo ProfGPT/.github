@@ -1,3 +1,2 @@
-# .github
-#Prof.GPT
+# Prof.GPT
 REVOLUTIONIZE EDUCATION WITH AI
