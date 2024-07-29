@@ -1,2 +1,2 @@
 # Prof.GPT
-Next Generation Education Management System powered by LLM
+Revolutionize Education with LLM
