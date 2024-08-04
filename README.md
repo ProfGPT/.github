@@ -1,1 +1,1 @@
-# ProfGPT
+# ProfGPT Inc.
