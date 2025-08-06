@@ -11,6 +11,7 @@ Prof.GPT is designed to streamline and elevate the educational process. It combi
 * **Agentic RAG AI Tutor** – A 24/7 intelligent assistant that provides accurate, contextual answers grounded in course materials through retrieval-augmented generation.
 * **Learning Journey Analyzer** – Monitors student performance, identifies learning gaps, and delivers actionable insights for instructors.
 * **AI Course Material Generator** – Enables educators to effortlessly generate quizzes, assignments, and tailored practice content aligned with learning objectives.
+
 <br><br>
 By integrating robust educational infrastructure with intelligent automation, Prof.GPT significantly enhances operational efficiency, instructional quality, and learner outcomes. Educators can refocus their efforts on strategic teaching and mentorship, while students benefit from personalized, on-demand academic support.
 <br><br>
