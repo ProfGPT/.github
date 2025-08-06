@@ -1,6 +1,6 @@
 # Prof.GPT
 
-**Prof.GPT – The All-in-One AI-Powered Education Engine**
+**The All-in-One AI-Powered Education Engine**
 
 Prof.GPT is a next-generation education engine that embeds advanced AI technologies into every facet of the learning experience. As a fully managed SaaS platform, it offers educators and students a unified, intelligent space to teach, learn, collaborate, and build education tools—powered by cutting-edge large language models (LLMs).
 
