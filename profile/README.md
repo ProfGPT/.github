@@ -7,9 +7,6 @@ Prof.GPT is a next-generation education engine that embeds advanced AI technolog
 
 <br>
 Prof.GPT is designed to streamline and elevate the educational process. It combines the foundational capabilities of traditional learning management systems (LMS), such as content delivery, assignment workflows, and user management, with a powerful suite of AI-driven features. These include, but are not limited to:
-<br>
-
-<br>
 * **AI-Powered Grading Assistant** – Automates the grading process with consistent, transparent, and customizable feedback at scale.
 * **Agentic RAG AI Tutor** – A 24/7 intelligent assistant that provides accurate, contextual answers grounded in course materials through retrieval-augmented generation.
 * **Learning Journey Analyzer** – Monitors student performance, identifies learning gaps, and delivers actionable insights for instructors.
