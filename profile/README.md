@@ -1,5 +1,5 @@
-# Prof.GPT
-## The All-in-One AI-Powered Education Engine
+## Prof.GPT
+### The All-in-One AI-Powered Education Engine
 
 <br>
 Prof.GPT is a next-generation education engine that embeds advanced AI technologies into every facet of the learning experience. As a fully managed SaaS platform, it offers educators and students a unified, intelligent space to teach, learn, collaborate, and build education tools—powered by cutting-edge large language models (LLMs).
@@ -7,10 +7,11 @@ Prof.GPT is a next-generation education engine that embeds advanced AI technolog
 
 <br>
 Prof.GPT is designed to streamline and elevate the educational process. It combines the foundational capabilities of traditional learning management systems (LMS), such as content delivery, assignment workflows, and user management, with a powerful suite of AI-driven features. These include, but are not limited to:
- * **AI-Powered Grading Assistant** – Automates the grading process with consistent, transparent, and customizable feedback at scale.
- * **Agentic RAG AI Tutor** – A 24/7 intelligent assistant that provides accurate, contextual answers grounded in course materials through retrieval-augmented generation.
- * **Learning Journey Analyzer** – Monitors student performance, identifies learning gaps, and delivers actionable insights for instructors.
- * **AI Course Material Generator** – Enables educators to effortlessly generate quizzes, assignments, and tailored practice content aligned with learning objectives.
+
+* **AI-Powered Grading Assistant** – Automates the grading process with consistent, transparent, and customizable feedback at scale.
+* **Agentic RAG AI Tutor** – A 24/7 intelligent assistant that provides accurate, contextual answers grounded in course materials through retrieval-augmented generation.
+* **Learning Journey Analyzer** – Monitors student performance, identifies learning gaps, and delivers actionable insights for instructors.
+* **AI Course Material Generator** – Enables educators to effortlessly generate quizzes, assignments, and tailored practice content aligned with learning objectives.
 <br>
 
 <br>
